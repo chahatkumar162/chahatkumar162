@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **JavaScrit** and **DSA**
 
-- 💬 Ask me about **Java, JavaScript, ReactJS and NodeJS**
+- 💬 Ask me about **Python, JavaScript, ReactJS and NodeJS**
 
-- 📫 How to reach me **chahatkumar1999@yahoo.com**
+- 📫 How to reach me **kumarchahat211@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
